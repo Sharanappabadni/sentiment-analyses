@@ -92,7 +92,7 @@ interview-assignment/
 
 ## Author
 
-[Your Name]
+Sharan Badni
 
 ## Notes
 
